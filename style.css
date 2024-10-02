@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d1d4c5;
+    color: #000000a9;
+    text-align: center;
+}
+
+h1 {
+    color: #046328;
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+}
+
+button {    
+    width: 50%;
+    height: 60px;
+    border: 2px solid red;
+    background-color: #046328;
+    color: #ffff;
+    padding: 1.15rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    border-radius: 4px;    
+    }
